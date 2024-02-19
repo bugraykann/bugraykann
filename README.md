@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MOBIRUN<br>🌱 I’m currently learning Laravel & Php & Scrum Mastering<br>⚡ Fun fact I am actually a software developer with a passion for aviation.
+🔭 I’m currently avaiable for work<br>🌱 I’m currently learning Laravel & Php & Scrum Mastering<br>⚡ Fun fact I am actually a software developer with a passion for aviation.
 
 
 ## 🌐 Socials:
